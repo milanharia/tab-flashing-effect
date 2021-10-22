@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Tab Flashing Effect",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
